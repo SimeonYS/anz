@@ -1,0 +1,9 @@
+URL: https://media.anz.com/archive?adobe_mc=MCMID%3D54051269784940038772567130105886080562%7CMCORGID%3D67A216D751E567B20A490D4C%2540AdobeOrg%7CTS%3D1619075451
+
+Spider name: anz
+DB Schema:
+
+date
+title
+link
+content
